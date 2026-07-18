@@ -1,42 +1,134 @@
-─────────────────────────────────────────────
+# 👋 Hi, I'm Devian Eddins
 
+### IT Professional | Identity & Access Management (IAM) | Cybersecurity | Systems Administration
 
+I'm an IT professional with experience supporting enterprise and public-sector technology environments, currently transitioning into Identity & Access Management (IAM) and cybersecurity engineering.
 
-👋 Hi, I'm Devian Eddins
+I'm passionate about building practical, enterprise-style home labs that simulate real-world environments using Active Directory, Microsoft Entra ID, Windows Server, and PowerShell automation. Every project in this profile is designed to strengthen my technical skills while documenting my learning journey.
 
-Identity & Access Management • Cybersecurity • IT Systems
+---
 
-Building enterprise home labs focused on
-Active Directory, Microsoft Entra ID,
-PowerShell automation, and Identity Governance.
+## 🚀 Current Project
 
-📍 Delaware
-🎓 WGU Cybersecurity
-🏅 CompTIA A+ | Network+ | Security+ | CySA+
+# 🌌 Project Orion
 
-Current Project
-🌌 Project Orion
+**Enterprise Hybrid Identity & Access Management Lab**
+
+Project Orion is an enterprise-inspired IAM environment built from the ground up to demonstrate modern identity administration, automation, and governance.
+
+### Current Focus
+
+- ✅ Active Directory Domain Services
+- ✅ Enterprise OU Design
+- ✅ RBAC Security Groups
+- ✅ Git & GitHub Documentation
+- 🔄 PowerShell User Provisioning
+- ⏳ Group Policy Management
+- ⏳ Hybrid Identity (Microsoft Entra ID)
+- ⏳ Identity Governance
+- ⏳ Joiner / Mover / Leaver Automation
+
+---
+
+## 🛠 Technologies
+
+### Identity & Access Management
+
+- Active Directory
+- Microsoft Entra ID (Learning)
+- Role-Based Access Control (RBAC)
+- Identity Governance
+- Group Policy
+
+### Systems Administration
+
+- Windows Server 2025
+- Windows 11
+- DNS
+- DHCP
+- VirtualBox
+
+### Automation
+
+- PowerShell
+- Git
+- GitHub
+
+### Cybersecurity
+
+- Security Hardening
+- Least Privilege
+- Access Reviews
+- Privileged Access Concepts
+- Enterprise Documentation
+
+---
+
+## 📜 Certifications
+
+- ✅ CompTIA A+
+- ✅ CompTIA Network+
+- ✅ CompTIA Security+
+- ✅ CompTIA CySA+
+
+---
+
+## 🎓 Education
+
+### Western Governors University
+
+**B.S. Cybersecurity & Information Assurance**
+
+### Indiana University of Pennsylvania
+
+**B.S. Management Information Systems**
+
+---
+
+## 🎯 Current Learning Goals
+
+- Hybrid Identity
+- Microsoft Entra ID
+- Microsoft SC-300
+- Azure Identity Services
+- Identity Governance & Administration (IGA)
+- Enterprise PowerShell Automation
+
+---
+
+## 📂 Featured Repositories
+
+🌌 **Project Orion**
 Enterprise Hybrid IAM Lab
 
-Featured Skills
-• Active Directory
-• Microsoft Entra ID
-• PowerShell
-• Windows Server
-• RBAC
-• Group Policy
-• Git/GitHub
+☁️ **Entra ID Lab**
+Microsoft Entra identity administration and cloud identity projects.
 
-Current Goals
-✔ Hybrid Identity
-✔ IAM Automation
-✔ SC-300
-✔ Azure
-✔ Identity Governance
+⚡ **PowerShell Automation**
+Scripts for automating enterprise administration tasks.
 
-↓ Featured Repositories ↓
+🛡 **IAM Scripts**
+Identity lifecycle management, RBAC, auditing, and governance.
 
-🌌 Project Orion
-☁️ Entra ID Lab
-⚡ PowerShell Automation
-🛡️ IAM Scripts
+---
+
+## 📈 2026 Goals
+
+- Complete Project Orion
+- Earn Microsoft SC-300
+- Build Hybrid Identity Lab
+- Expand PowerShell Automation Portfolio
+- Continue contributing to GitHub consistently
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/deviane
+
+📍 Delaware, USA
+
+---
+
+> "Learning by building. Improving one project at a time."
