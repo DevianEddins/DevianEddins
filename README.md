@@ -1,3 +1,16 @@
+![Windows Server](https://img.shields.io/badge/Windows_Server-2025-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-C8202F?style=for-the-badge)
+
+
 # 👋 Hi, I'm Devian Eddins
 
 ### IT Professional | Identity & Access Management (IAM) | Cybersecurity | Systems Administration
