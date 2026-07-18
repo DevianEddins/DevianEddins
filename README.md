@@ -1,16 +1,39 @@
-## Hi there 👋
+─────────────────────────────────────────────
+👋 Hi, I'm Devian Eddins
 
-<!--
-**DevianEddins/DevianEddins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Identity & Access Management • Cybersecurity • IT Systems
 
-Here are some ideas to get you started:
+Building enterprise home labs focused on
+Active Directory, Microsoft Entra ID,
+PowerShell automation, and Identity Governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Delaware
+🎓 WGU Cybersecurity
+🏅 CompTIA A+ | Network+ | Security+ | CySA+
+
+Current Project
+🌌 Project Orion
+Enterprise Hybrid IAM Lab
+
+Featured Skills
+• Active Directory
+• Microsoft Entra ID
+• PowerShell
+• Windows Server
+• RBAC
+• Group Policy
+• Git/GitHub
+
+Current Goals
+✔ Hybrid Identity
+✔ IAM Automation
+✔ SC-300
+✔ Azure
+✔ Identity Governance
+
+↓ Featured Repositories ↓
+
+🌌 Project Orion
+☁️ Entra ID Lab
+⚡ PowerShell Automation
+🛡️ IAM Scripts
